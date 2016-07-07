@@ -11,4 +11,4 @@ This will conflict with the remote - added locally
 This will commit with the local - added remotely
 >>>>>>> bf28536db92d0bf55891491761f0e653b1bfcbb9
 This was added by collaborator
-
+Another line
