@@ -5,3 +5,4 @@ This is the 4th line
 This line added remotely
 This was the second line added remotely
 This line was added locally
+This will conflict with the remote - added locally
