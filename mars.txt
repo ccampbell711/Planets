@@ -5,4 +5,8 @@ This is the 4th line
 This line added remotely
 This was the second line added remotely
 This line was added locally
+<<<<<<< HEAD
 This will conflict with the remote - added locally
+=======
+This will commit with the local - added remotely
+>>>>>>> bf28536db92d0bf55891491761f0e653b1bfcbb9
